@@ -1,1 +1,2 @@
-# FormationCe dossier contient des formations sur plusieurs technologies
+# Formation
+Ce dossier contient des formations sur plusieurs technologies
