@@ -42,3 +42,9 @@ COMMIT
 -A FORWARD -i eth1 -m state --state NEW,RELATED,ESTABLISHED -j ACCEPT
 COMMIT
 # Completed on Thu Oct  4 14:24:04 2018
+
+
+[root@grovsl9d ~]# lsmod |grep nat
+ip_nat_ftp             36545  0 
+ip_conntrack_ftp       41361  1 ip_nat_ftp
+
