@@ -1,0 +1,39 @@
+# Example of SSSD Config to LDAP with network share maps on ldap also.
+
+[domain/default] #Section qui s'applique à tous le domaines dans le fichier de config
+
+
+id_provider = ad # indique à SSSD d'utiliser LDAP comme fournisseur des ID et Kerberos comme l'outil d'authentification qui est optimisé pour communications avec la AD.
+ldap_id_use_start_tls = False # indique à SSSD d'utiliser TLS pour crypter les communication LDAP , mais ce n'est plus nécessaire car SSSD utlise GSSAPI pour crypter la communication sur le port 389 .
+chpass_provider = ldap # indique où le changement de mot de passe s'applique , normalement elle est ad et non pas ldap ,les options possibles sont ldap , ad, krb5, none.. ,
+ldap_uri = ldap://GR0VSDMA/ # indique la iste des URL des serveurs LDAP où chercher
+cache_credentials = True # indique à sssd de cacher les credentials
+
+[sssd]
+domains = gr0vsdma.rte-france.com
+config_file_version = 2
+services = nss, pam, autofs # Liste des services démarrés par sssd
+
+[autofs] # section pour la partie autofs
+debug_level = 6 # génère un fichier log pour le autofs dans /var/log/sssd/sssd_autofs.log
+
+[domain/gr0vsdma.rte-france.com] # Section pour le domaine GR0VSDMA
+ad_domain = gr0vsdma.rte-france.com
+krb5_realm = GR0VSDMA.RTE-FRANCE.COM
+realmd_tags = manages-system joined-with-samba
+cache_credentials = True
+id_provider = ad # indique à SSSD d'utiliser LDAP comme fournisseur des ID et Kerberos comme l'outil d'authentification qui est optimisé pour communications avec la AD.
+krb5_store_password_if_offline = True # cacher les tickets kerberos dans le keyring de kerberos
+default_shell = /bin/bash # Default shell pour les utilisateur si l'attribut POSIX homeDirecory n'est pas défnin dans l'AD
+debug_level = 3
+ldap_id_mapping = False # Indique au sssd d'utiliser les attributs POSIX des utilisateurs de l'AD , c'est grâce à ce paramètre que le système linux ne fait pas une translation automatique des ID windows , mais il prends les attributs UID et GID de l'utilisateur
+use_fully_qualified_names = False # indique au SSSD d'utiliser seulement la premiere partie de l'identaifiant , ça veut dire d'utiliser SEIFKARO à la place de SEIFKARO@GR0VSDMA.RTE-FRANCE.COM
+fallback_homedir = /users/%u # L'ancien Home directory des utilisateurs NIS était dans /users , donc pour la raison de compatibilité et de la continuité on a mis le /users directory à la place de /home directory pour le home directory par défaut
+access_provider = ad
+autofs_provider = ad # indique au sssd que le fournisseur de mappage d'autofs est l'AD
+ldap_autofs_entry_key = cn
+ldap_autofs_entry_object_class = nisObject
+ldap_autofs_entry_value = nisMapEntry
+ldap_autofs_map_name = nisMapName
+ldap_autofs_map_object_class = nisMap
+ldap_autofs_search_base = OU=automount,DC=gr0vsdma,DC=rte-france,DC=com
