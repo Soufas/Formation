@@ -1,6 +1,6 @@
 Import-module activedirectory
 $ModUsers = import-csv "c:\scripts\nis2ad\last_users.csv" -Delimiter :
-$defpassword = (ConvertTo-SecureString "Des@1234" -AsPlainText -force)
+$defpassword = (ConvertTo-SecureString "XXXXX@1234" -AsPlainText -force)
 foreach ($User in $ModUsers) {
 $User.Name
 $User.NA
