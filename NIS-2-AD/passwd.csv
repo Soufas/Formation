@@ -1,0 +1,583 @@
+Name:NA:Uid:Gid:Nom:Home:Shell
+nobody:x:99:99:Nobody:/:/sbin/nologin
+vinclefi:x:128:1023:Vincent Lefieux:/users/vinclefi:/sbin/nologin
+notes:x:134:150:Compte notes:/logiciels/lotus:/bin/ksh
+stepflis:x:155:1002:Stephane Fliscounakis:/users/stepflis:/bin/ksh
+franlafe:x:186:1002:Francoise Lafeuillade:/users/franlafe:/sbin/nologin
+sector:x:200:1019:Compte de projet RSCT:/users/sector:/bin/csh
+testRSCT:x:202:1019:Communication plateforme RSCT/CP:/users/testRSCT:/sbin/nologin
+rsct:x:203:1019:compte rstn:/users/rsct:/sbin/nologin
+ihmrsct:x:206:1019:rsct grovsh05:/users/ihmrsct:/sbin/nologin
+opersct:x:207:1019:rsct grovsh05:/users/opersct:/sbin/nologin
+RSCT:x:208:1019:Communication plateforme RSCT/CP:/users/RSCT:/sbin/nologin
+expersct:x:209:1019:Config complete:/users/expersct:/sbin/nologin
+cres:x:217:1015:compte pour des calculs de factorisation (step.flis.):/users/cres:/sbin/nologin
+livsnc:x:272:1002:livsnc:/users/livsnc:/sbin/nologin
+robegonz:x:331:4006:Robert Gonzalez:/users/robegonz:/bin/csh
+tsnc:x:412:1002:tsnc tsnc:/users/tsnc:/sbin/nologin
+nolog:x:1000:3:No log:/users/nolog:/bin/false
+perte:x:1003:1011:Decompte Stephane Flis:/users/perte:/bin/ksh
+gsr:x:1019:1022:Compte de Projet Gsr:/users/gsr:/bin/ksh
+pf_SNC:x:1021:1013:SNC:/users/pf_SNC:/bin/ksh
+eurostag:x:1022:1014:Eurostag:/users/eurostag:/bin/ksh
+philcarp:x:1023:1014:Philippe CARPENTIER:/users/philcarp:/bin/ksh
+cn2i_rs:x:1026:1003:echange platine CN2I RS:/users/cn2i_rs:/bin/ksh
+asdt:x:1027:1006:marie sophie balavoine:/users/asdt:/bin/ksh
+pladmBO:x:1028:1008:Compte de projet Prelude Antoine Brisset:/users/pladmBO:/sbin/nologin
+pluserBO:x:1029:1008:Compte de projet Prelude Antoine Brisset:/users/pluserBO:/sbin/nologin
+patrpanc:x:1030:1006:Patrick Panciatici:/users/patrpanc:/bin/ksh
+pldata:x:1031:1008:Compte de Sauvegarde Prelude Antoine Brisset:/users/pldata:/bin/ksh
+pladmex:x:1035:1008:Compte de suivi dexploit de Prelude:/users/pladmex:/sbin/nologin
+pluserEX:x:1036:1008:Compte de suivi dexploit de Prelude:/users/pluserEX:/sbin/nologin
+solagatx:x:1039:1003:Solange GAT:/users/solagatx:/sbin/nologin
+versanta:x:1043:10:Administrateur Versant:/users/versanta:/bin/ksh
+jbapheyb:x:1044:1006:Jean baptiste Heyberger:/users/jbapheyb:/bin/ksh
+geofjamg:x:1045:1015:Geoffroy Jamgotchian:/users/geofjamg:/bin/bash
+eode:x:1046:1025:Compte de donnees EODE:/users/eode:/bin/ksh
+rstn:x:1048:1026:Compte de PROJET RST-N:/users/rstn:/bin/ksh
+rsctref:x:1053:1019:Compte de projet rstn:/users/rsctref:/bin/ksh
+fabrguyx:x:1054:1032:Fabrice GUY:/users/fabrguyx:/sbin/nologin
+ps_mat1:x:1055:1027:PS compte MATLAB:/users/ps_mat1:/bin/ksh
+pladmbl:x:1056:1008:Compte de projet Prelude A.Brisset V1.2 SUN:/users/pladmbl:/sbin/nologin
+pluserbl:x:1057:1008:Compte de projet A.Brisset V1.2 SUN:/users/pluserbl:/sbin/nologin
+acct_ksh:x:1058:1008:compte ksh:/users/acct_ksh:/sbin/nologin
+pdundaut:x:1060:4006:Phuong Dung DAUTEUIL:/users/pdundaut:/bin/bash
+philjust:x:1061:4001:Philippe JUSTON:/users/philjust:/bin/ksh
+sgepdma:x:1062:1028:Compte de projet SGEP Mireille Chevallier:/users/sgepdma:/sbin/nologin
+berntalb:x:1063:1003:Bernadette TALBOT:/users/berntalb:/bin/ksh
+isabrena:x:1064:1029:Isabelle RENAULT:/users/isabrena:/sbin/nologin
+samuscol:x:1065:1022:Samuel SCOLARI:/users/samuscol:/sbin/nologin
+aclalege:x:1104:4006:Anne Claire LEGER:/users/aclalege:/bin/ksh
+fmaker:x:1105:501:Compte pour utiliser FrameMaker:/users/fmaker:/bin/ksh
+cc_data:x:2083:1015:Administrateur ClearCase cc_data:/users/cc_data:/sbin/nologin
+arcade:x:2089:1015:arcade:/users/arcade:/bin/csh
+jjacjoua:x:2101:10:Jean-Jacques JOUAN:/users/jjacjoua:/sbin/nologin
+franlecu:x:3003:1006:Franck Lecuyer:/users/franlecu:/bin/bash
+pasctour:x:3004:1006:Pascal Tournebise:/users/pasctour:/bin/bash
+gamme:x:3006:1006:Gamme:/users/gamme:/bin/ksh
+jmarmore:x:3008:1006:Jean-Marie Moreau:/users/jmarmore:/sbin/nologin
+cft:x:3201:3200:CFT:/users/cft:/sbin/nologin
+devast2:x:4116:1006:Compte de Projet:/users/devast2:/sbin/nologin
+astre:x:4123:1006:Compte de Projet:/users/astre:/bin/ksh
+hervlefe:x:4202:1006:Herve Lefebvre:/users/hervlefe:/bin/ksh
+devast3:x:4203:1006:Compte Projet:/users/devast3:/bin/ksh
+apostrsct:x:4208:1019:Analyse a posteriori RSCT/D:/users/apostrsct:/sbin/nologin
+confrsct:x:4209:1019:Configuration reseau RSCT-D:/users/confrsct:/sbin/nologin
+fasrc:x:4212:1004:fasrc compte hebergeant les sources du src:/users/fasrc:/bin/ksh
+scada:x:4213:1004:scada grovsh02:/home/scada:/bin/ksh
+gbo:x:4214:1004:gbo grovsh01:/users/gbo:/sbin/nologin
+jyb:x:4215:1004:jyb grovsh08:/home/jyb:/bin/ksh
+mga:x:4216:1004:mga grovsh08 compte de dev fasrc:/home/mga:/bin/ksh
+jma:x:4217:1004:jma grovsh02:/home/jma:/bin/ksh
+fgu:x:4218:1004:fgu grovsh02:/home/fgu:/sbin/nologin
+macrez:x:4219:1004:macrez grovsh01:/users/macrez:/sbin/nologin
+asterx:x:4220:1004:Compte de projet Jerome Macrez:/users/asterx:/bin/csh
+favasrtr:x:4221:1004:Compte de projet Marc Galibourg:/users/favasrtr:/bin/ksh
+favasret:x:4222:1004:Compte de projet Marc Galibourg:/users/favasret:/bin/ksh
+favrt:x:4223:1004:Compte de projet Marc Galibourg:/users/favrt:/bin/ksh
+emmaneau:x:4519:1001:Emmanuel NEAU:/users/emmaneau:/sbin/nologin
+metris:x:4521:1002:Compte de projet Metris:/users/metris:/bin/ksh
+cresmed:x:4522:1021:Compte de projet Jean PO:/users/cresmed:/sbin/nologin
+guyxdela:x:4600:1003:Guy Delatouche:/users/guyxdela:/sbin/nologin
+bogdan:x:4620:1014:Compte de projet Bogdan Marinescu:/users/bogdan:/sbin/nologin
+gaminteg:x:4622:1006:Gamme:/users/gaminteg:/sbin/nologin
+acct_csh:x:4623:10:compte csh:/users/acct_csh:/sbin/nologin
+jyvebour:x:4625:1003:Jean-Yves Bourmaud:/users/jyvebour:/bin/zsh
+anoncvs:x:4626:1018:Compte Anonyme CVS:/:
+mirelefe:x:4627:1022:Mireille LEFEVRE:/users/mirelefe:/bin/ksh
+sandalbo:x:4630:1008:Sandrine ALBOU:/users/sandalbo:/sbin/nologin
+olivdesp:x:4631:1008:Olivier DESPOUYS:/users/olivdesp:/sbin/nologin
+simomore:x:4632:1006:Simone MORENO:/users/simomore:/sbin/nologin
+fabrzaou:x:4634:1002:Fabrice ZAOUI:/users/fabrzaou:/sbin/nologin
+gamlivre:x:4661:1006:Compte de projet Gamme:/users/gamlivre:/bin/ksh
+jyvebous:x:4800:1004:Jean Yves BOUSSION:/users/jyvebous:/bin/ksh
+marcgali:x:4939:1006:Marc Galibour:/users/marcgali:/bin/ksh
+hquintet:x:4940:1002:Stephe Fliscounakis:/users/hquintet:/sbin/nologin
+sebadoum:x:4960:1014:sebastien doumeix:/users/sebadoum:/sbin/nologin
+slimamar:x:4977:1022:Slimane Amar:/users/slimamar:/bin/bash
+franlong:x:32530:1003:Francois long:/users/franlong:/bin/ksh
+lucasalu:x:32531:1003:Lucas Saludjian:/users/lucasalu:/bin/ksh
+brunlauz:x:32534:1003:Bruno Lauzanne:/users/brunlauz:/sbin/nologin
+platine:x:32535:1003:platine:/users/platine:/bin/ksh
+platine1:x:32536:1003:platine1:/users/platine1:/sbin/nologin
+platine2:x:32537:1003:platine2:/users/platine2:/sbin/nologin
+platine3:x:32538:1003:platine3:/users/platine3:/sbin/nologin
+platine4:x:32539:1003:platine4:/users/platine4:/sbin/nologin
+gabrbare:x:32540:1022:Gabriel Bareux:/users/gabrbare:/sbin/nologin
+didicast:x:32559:1003:Didier Castanet:/users/didicast:/bin/ksh
+yacihass:x:32579:1006:Yacine Hassaine:/users/yacihass:/sbin/nologin
+platadm:x:32584:1003:Compte Clearcase Platine:/users/platadm:/bin/ksh
+arcmaint:x:32587:1015:arcmaint:/users/arcmaint:/sbin/nologin
+ericbour:x:32588:1023:Eric Bourgade:/users/ericbour:/bin/ksh
+model:x:32596:1015:Modele Reseau Electrique:/users/model:/bin/csh
+damiroux:x:40023:1015:Damien ROUX:/users/damiroux:/bin/ksh
+gabrsime:x:40049:1002:Gabriel SIMEANT:/users/gabrsime:/sbin/nologin
+benodelo:x:40052:1006:Benoit DELOURME:/users/benodelo:/sbin/nologin
+rsct2:x:40104:1014:Compte de Projet Eurostag:/users/rsct2:/sbin/nologin
+esgass:x:40105:1012:esgass:/users/esgass:/sbin/nologin
+smas3:x:40106:1014:Compte de Projet SMAS3 B.Marisnescu:/users/smas3:/sbin/nologin
+asdt1:x:40107:1006:ASDT compte lie a GAMME v.sermanson:/users/asdt1:/sbin/nologin
+bogdmari:x:40108:1014:Bogdan MARINESCU:/users/bogdmari:/sbin/nologin
+sideral:x:104:4017:Compte de Projet Eurostag:/users/sideral:/sbin/nologin
+andrgiar:x:40112:1014:Andre GIARD:/users/andrgiar:/sbin/nologin
+ccarcade:x:50001:1015:Compte Clearcase Arcade:/users/ccarcade:/sbin/nologin
+ccprelud:x:50002:1008:Compte Clearcase Prelude sert aux livraisons:/users/ccprelud:/bin/ksh
+ccactor:x:50003:1016:Compte Clearcase Actor:/users/ccactor:/sbin/nologin
+admincvs:x:50004:1018:Compte Admin CVS:/users/admincvs:/bin/bash
+ccmetris:x:50005:1007:Compte Clearcase METRIS:/users/ccmetris:/sbin/nologin
+briggest:x:55004:1008:Brigitte Gest:/users/briggest:/bin/ksh
+sshd:x:55005:4002:sshd privsep:/var/empty:/bin/false
+adminasr:x:1070:1006:Compte de Projet G.CORM:/users/adminasr:/bin/ksh
+pldevps:x:1071:1008:Compte de Dvl Prelude A.Brisset:/users/pldevps:/sbin/nologin
+chrilimo:x:4520:1001:Christelle LIMOUSIN:/users/chrilimo:/sbin/nologin
+test1:x:1076:1006:test1 compte de test gamme:/users/test1:/sbin/nologin
+pieragac:x:1066:1023:Pierre AGACHE:/users/pieragac:/sbin/nologin
+antobene:x:1067:1020:ANTONY BENEJEAN:/users/antobene:/sbin/nologin
+asrplref:x:1078:1006:Formation ASR REF G.Corm:/users/asrplref:/sbin/nologin
+gamlivre2:x:1084:1006:Compte de projet GAMME pour les dev:/users/gamlivre2:/sbin/nologin
+asrpl1:x:1079:1006:Espace utilisateur prototype:/users/asrpl1:/sbin/nologin
+asrpl2:x:1080:1006:Espace utilisateur prototype:/users/asrpl2:/sbin/nologin
+hades:x:1081:1024:Didier CASTANET:/users/hades:/sbin/nologin
+mattduss:x:1082:1006:Matthieu DUSSARTRE:/users/mattduss:/bin/ksh
+chriloua:x:1072:1001:LOUAT Christophe:/users/chriloua:/sbin/nologin
+jlucnico:x:1087:10:Jean-Luc NICOD:/users/jlucnico:/sbin/nologin
+davisimo:x:1088:1006:David SIMON:/users/davisimo:/sbin/nologin
+talbot:x:1089:1003:Bernadette TALBOT:/users/talbot:/bin/ksh
+thibkett:x:1099:10:thibault KETTERER:/users/thibkett:/sbin/nologin
+emmarogu:x:2002:1031:Emmanuel ROGUE:/users/emmarogu:/bin/ksh
+msopbala:x:2006:1006:BALAVOINE Marie-Sophie:/users/msopbala:/bin/ksh
+olivbret:x:2008:1006:BRETTEVILLE Olivier:/users/olivbret:/bin/bash
+fabrduba:x:2001:1022:Fabrice DUBACH:/users/fabrduba:/sbin/nologin
+asrref:x:1102:1006:Georges CORM:/users/asrref:/sbin/nologin
+assess:x:1103:1012:assess:/users/assess:/sbin/nologin
+niconoir:x:2009:1022:Noir Nicolas:/users/niconoir:/bin/ksh
+badimall:x:1108:1030:Badis MALLEM:/users/badimall:/sbin/nologin
+jmardebr:x:1109:1003:jean-marc debruyne:/users/jmardebr:/bin/ksh
+benobran:x:1110:1030:Benoit BRANGER:/users/benobran:/sbin/nologin
+vincserm:x:1114:1014:Vincent SERMANSON:/users/vincserm:/sbin/nologin
+luismbar:x:1117:1008:Luis MARIA BARROSO:/users/luismbar:/sbin/nologin
+sebahenr:x:1118:1011:Sebastien Henry:/users/sebahenr:/sbin/nologin
+fbi:x:1119:1003:Flow-Based Implementation:/users/fbi:/sbin/nologin
+jeromacr:x:1120:1004:Jerome Macrez:/users/jeromacr:/sbin/nologin
+emmabern:x:1121:1014:Emmanuel BERNERON:/users/emmabern:/sbin/nologin
+oracle:x:1123:4003:oracle user:/users/oracle:/bin/bash
+mcocn2i:x:1125:1006:MCO ASR GSR cn2i:/users/mcocn2i:/sbin/nologin
+emelguiu:x:1126:1014:GUIU Emeline:/users/emelguiu:/bin/ksh
+antares:x:1127:1001:Robert GONZALES:/users/antares:/bin/ksh
+jpierest:x:1128:10:Jean-pierre RESTOUX:/users/jpierest:/bin/ksh
+marsi:x:1129:1003:Lucas SALUDJIAN:/users/marsi:/bin/ksh
+marsi2:x:1130:1003:Lucas SALUDJIAN:/users/marsi2:/bin/ksh
+svnuser:x:3000:3000:user svn:/local00/depotsvn:/bin/ksh
+yannphul:x:1131:1006:phulpin:/users/yannphul:/sbin/nologin
+adminrpm:x:1132:1000:compte admin rpm souche:/users/adminrpm:/sbin/nologin
+gwilpoul:x:1133:1006:Gwilherm Poullennec:/users/gwilpoul:/sbin/nologin
+lalaapoy:x:1134:1006:APOYAN Lalake:/users/lalaapoy:/sbin/nologin
+nicobieg:x:1111:4012:nicolas biegala:/users/nicobieg:/sbin/nologin
+benjpeti:x:1113:1008:Benjamin Petiau:/users/benjpeti:/sbin/nologin
+chricroc:x:1116:1008:Christophe CROCOMBETTE:/users/chricroc:/sbin/nologin
+yacichak:x:1122:1008:Yacine CHAKHCHOUKH:/users/yacichak:/sbin/nologin
+samiissa:x:1135:4007:samir issad:/users/samiissa:/bin/bash
+thietang:x:1136:10:tang thierry:/users/thietang:/sbin/nologin
+brundele:x:1137:1008:bruno delenne:/users/brundele:/bin/ksh
+jacqbors:x:1138:1008:Jacques Borsenberger:/users/jacqbors:/bin/bash
+r4ca:x:1139:1022:compte projet FBI:/users/r4ca:/sbin/nologin
+sebapeti:x:1140:4016:sebastien PETITRENAUD:/users/sebapeti:/bin/bash
+guillapi:x:1142:1022:guillaume lapierre-ganivet:/users/guillapi:/sbin/nologin
+genesomm:x:1141:1008:genevieve sommervogel:/users/genesomm:/bin/bash
+cedrboud:x:1143:1003:cedric boudinet:/users/cedrboud:/sbin/nologin
+gautplou:x:1144:4011:gauthier plouvier:/users/gautplou:/bin/bash
+emilmili:x:1145:1006:emilie milin:/users/emilmili:/sbin/nologin
+jiaxkang:x:1146:3001:jia kang:/users/jiaxkang:/sbin/nologin
+davichal:x:1147:10:David CHALON:/users/davichal:/sbin/nologin
+mathdupu:x:1148:1002:mathilde dupuy:/users/mathdupu:/sbin/nologin
+thibprev:x:1149:1022:thibault prevost:/users/thibprev:/bin/bash
+laurcast:x:1150:1022:laure castaing:/users/laurcast:/sbin/nologin
+convergence:x:1151:1022:convergence:/users/convergence:/bin/bash
+jeanmaeg:x:1152:1022:Jean Maeght,2/059,244079:/users/jeanmaeg:/bin/bash
+modeles:x:1156:4008:modeles:/users/modeles:/bin/bash
+ericmomo:x:1157:4006:Eric MOMOT:/users/ericmomo:/bin/bash
+admin:x:1155:10:admin:/users/admin:/bin/bash
+sylvlecl:x:1158:1006:sylvain leclerc:/users/sylvlecl:/bin/bash
+mathbagu:x:1159:1022:mathieu bague:/users/mathbagu:/bin/bash
+galibarb:x:1160:1002:galileo barbieri:/users/galibarb:/sbin/nologin
+pfesnc:x:1161:1011:compte ptfiges ftp SNC CNES:/users/ptfiges/stock:/bin/bash
+arnacost:x:1162:1022:arnaud costes:/users/arnacost:/sbin/nologin
+damigera:x:1163:4006:damien gerard:/users/damigera:/sbin/nologin
+kemarahm:x:1153:10:kemal rahmani:/users/kemarahm:/sbin/nologin
+romaverg:x:1124:1006:romain vergniaud:/users/romaverg:/sbin/nologin
+ftpsnc:x:1154:1011:ftpsnc:/users/ptfiges/stock:/bin/bash
+remyclem:x:1164:1022:remy clement:/users/remyclem:/bin/bash
+sylvdsus:x:1165:1011:sylvain de susa:/users/sylvdsus:/sbin/nologin
+angechie:x:1166:1014:Angela Chieh:/users/angechie:/sbin/nologin
+jeanloge:x:1167:1006:jean logeart:/users/jeanloge:/sbin/nologin
+jmarjans:x:1168:1006:jean-marc jansen:/users/jmarjans:/bin/bash
+michdoqu:x:1169:4006:michel doquet:/users/michdoqu:/bin/bash
+cecidmon:x:1170:4006:cecile de montureux:/users/cecidmon:/bin/bash
+brahbetr:x:1171:1003:brahim betraoui:/users/brahbetr:/sbin/nologin
+xavilero:x:1172:1014:xavier lerondel:/users/xavilero:/sbin/nologin
+jerobarb:x:1174:10:jerome barbe:/users/jerobarb:/sbin/nologin
+mathdeff:x:1176:1022:mathilde deffontaines:/users/mathdeff:/sbin/nologin
+hervwern:x:1175:10:Herve WERNER:/users/hervwern:/sbin/nologin
+nicoblan:x:1177:1022:nicolas blanquet:/users/nicoblan:/sbin/nologin
+alaifarg:x:1178:4012:Alain Farge:/users/alaifarg:/sbin/nologin
+shigzhux:x:1179:1002:shiguang zhu:/users/shigzhux:/sbin/nologin
+bobxbell:x:1180:4012:bob bellini:/users/bobxbell:/sbin/nologin
+laurdupr:x:1181:1022:laurent dupre:/users/laurdupr:/bin/bash
+marifunf:x:1182:1022:marianne funfrock:/users/marifunf:/bin/bash
+jmarcoul:x:1183:4012:jean-marie coulondre:/users/jmarcoul:/sbin/nologin
+florlouv:x:1184:10:florent louveau:/users/florlouv:/sbin/nologin
+olivperr:x:1185:4013:olivier perrin:/users/olivperr:/bin/bash
+marjposs:x:1186:4007:marjolaine posson:/users/marjposs:/sbin/nologin
+nicodebr:x:1187:1022:nicolas debray:/users/nicodebr:/sbin/nologin
+yousakel:x:1188:1022:youssef akel:/users/yousakel:/bin/bash
+benojean:x:1189:3000:benoit jeanson:/users/benojean:/sbin/nologin
+dream:x:1190:4013:dream:/users/dream:/bin/bash
+franbeau:x:1191:4016:francois beaude:/users/franbeau:/bin/bash
+virgduss:x:1192:4006:virginie dussarte:/users/virgchev:/bin/bash
+youszaki:x:1193:1014:youssef zaki:/users/youszaki:/bin/bash
+romasueu:x:1194:4007:roman sueur:/users/romasueu:/sbin/nologin
+sebagill:x:1195:4012:sebastien gilles:/users/sebagill:/sbin/nologin
+ioda:x:1196:4007:stephane fliscounakis:/users/ioda:/bin/bash
+stepvand:x:1197:4012:stephane vandenbogaerde:/users/stepvand:/sbin/nologin
+vinccaza:x:1198:1003:vincent cazaux:/users/vinccaza:/sbin/nologin
+guilploy:x:1199:1008:guillaume ployart:/users/guilploy:/sbin/nologin
+luisrami:x:1200:4006:luis ramirez:/users/luisrami:/sbin/nologin
+chriderv:x:1201:4012:christophe dervieux:/users/chriderv:/sbin/nologin
+florxavi:x:1202:1014:florent xavier:/users/florxavi:/bin/bash
+adrifage:x:1203:4007:adrien faget:/users/adrifage:/sbin/nologin
+sebamurg:x:1204:1014:sebastien murgey:/users/sebamurg:/bin/bash
+adriatay:x:1205:3001:adrien atayi:/users/adriatay:/bin/bash
+leonamir:x:1206:10:leon amirkhanian:/users/leonamir:/sbin/nologin
+chrilabe:x:1207:1022:christophe labedan:/users/chrilabe:/sbin/nologin
+paulfauc:x:1208:5002:paul fauchet:/users/paulfauc:/sbin/nologin
+stefheck:x:1209:5002:steffi heckmann:/users/stefheck:/sbin/nologin
+chribarr:x:1210:5001:christophe barre:/users/chribarr:/sbin/nologin
+fredevex:x:1211:5000:frederic eve:/users/fredevex:/sbin/nologin
+fredverr:x:1212:5000:frederique verrier:/users/fredverr:/sbin/nologin
+stepchat:x:1213:5000:stephane chatellier:/users/stepchat:/sbin/nologin
+alexorti:x:1214:5001:alexandre ortiz:/users/alexorti:/sbin/nologin
+soprano:x:1215:4999:jean-marc jansen:/users/soprano:/bin/bash
+emmasanv:x:1216:10:emmanuel sanvito:/users/emmasanv:/sbin/nologin
+cedrjosz:x:1217:5002:cedric josz:/users/cedrjosz:/bin/bash
+alexloye:x:1218:5002:alexis loyer:/users/alexloye:/sbin/nologin
+ericpene:x:1219:5001:eric peneloux:/users/ericpene:/sbin/nologin
+calefeze:x:1220:5002:Claude-Alexandra Fezeu:/users/calefeze:/sbin/nologin
+nicoomon:x:1221:5000:nicolas omont:/users/nicoomon:/bin/bash
+malihass:x:1222:5002:Malik hassanaly:/users/malihass:/sbin/nologin
+davipete:x:1224:5002:david petecsh:/users/davipete:/sbin/nologin
+olivvuda:x:1225:5002:olivier vu-dac:/users/olivvuda:/sbin/nologin
+dimigrab:x:1226:5002:dimitri grabette:/users/dimigrab:/sbin/nologin
+samukabb:x:1227:5001:samuel kabbak:/users/samukabb:/sbin/nologin
+basstrik:x:1228:5001:bassem triki:/users/basstrik:/sbin/nologin
+samukaba:x:1229:5001:samuel kabak:/users/samukaba:/sbin/nologin
+sylvraja:x:1230:5001:sylvio rajaspera:/users/sylvraja:/sbin/nologin
+laurgarn:x:1231:5001:laurent garnier:/users/laurgarn:/bin/bash
+aminchou:x:1232:5001:amine chourou:/users/aminchou:/sbin/nologin
+ftpucte:x:1233:1011:ftp:/users/ptfiges_l05/:/bin/bash
+alexguyo:x:1234:5000:alexis guyot:/users/alexguyo:/sbin/nologin
+ftppf:x:1235:1011:ftp:/users/ptfiges_l05/:/sbin/nologin
+nixxding:x:1236:5000:ni ding:/users/nixxding:/bin/bash
+arcadeV2:x:1237:5000:damien roux:/users/arcadeV2:/bin/csh
+wuxxnixx:x:1238:5001:wu ni:/users/wuxxnixx:/sbin/nologin
+wuxxlixx:x:1239:5001:wu li:/users/wuxxlixx:/sbin/nologin
+ftpfb:x:1240:1011:ftp:/users/grovss05/ftp:/sbin/nologin
+alexdebe:x:1241:5000:alexandre debetencourt:/users/alexdebe:/sbin/nologin
+alexcoss:x:1242:5002:alexandra cosseron:/users/alexcoss:/sbin/nologin
+ismaalao:x:1243:5002:ismail alaoui:/users/ismaalao:/sbin/nologin
+ftpadmin:x:64630:1::/home/ftpadmin:/bin/bash
+sergagap:x:1244:5000:sergei agapoff:/users/sergagap:/sbin/nologin
+stanalle:x:1245:10:stanislas alleaume:/users/stanalle:/sbin/nologin
+damigarr:x:1246:5000:damien garrec:/users/damigarr:/sbin/nologin
+olivpeti:x:1247:5001:olivier petit:/users/olivpeti:/sbin/nologin
+alexklim:x:1248:5001:alexendre klimowicz:/users/alexklim:/bin/bash
+adriguir:x:1249:5000:adrien guironnet:/users/adriguir:/bin/bash
+etiegarc:x:1250:5002:etienne garcia:/users/etiegarc:/sbin/nologin
+marimaen:x:1223:5002:marijn maenhoudt:/users/marimaen:/sbin/nologin
+jeanthor:x:1251:5002:jean thorey:/users/jeanthor:/sbin/nologin
+ayoutoui:x:1252:5002:ayoub touiel:/users/ayoutoui:/sbin/nologin
+leoxmezi:x:1253:5002:leo mezionnaud:/users/leoxmezi:/sbin/nologin
+leoxmezo:x:1254:5002:leo mezonniaud:/users/leoxmezo:/sbin/nologin
+sergblum:x:1255:5000:serge blumental:/users/sergblum:/sbin/nologin
+guildeni:x:1256:5002:guillaume denis:/users/guildeni:/bin/bash
+etiedesc:x:1257:5002:etienne deschanvres:/users/etiedesc:/sbin/nologin
+maribert:x:1258:5002:marion bertholon:/users/maribert:/sbin/nologin
+brahabbe:x:1259:5001:brahim abbes:/users/brahabbe:/sbin/nologin
+pavecure:x:1260:5002:pavel cureu:/users/pavecure:/sbin/nologin
+cyrivuil:x:1261:5000:cyril vuillecard:/users/cyrivuil:/bin/bash
+nicolhui:x:1262:5000:nicolas lhuillier:/users/nicolhui:/bin/bash
+vincphil:x:1263:5002:vincent philippart:/users/vincphil:/sbin/nologin
+michboul:x:1264:5000:michael boulade:/users/michboul:/bin/bash
+ftpsideral:x:1265:1011:ftp:/users/grovss05/ftp:/sbin/nologin
+ericrena:x:1266:5001:eric renard:/users/ericrena:/sbin/nologin
+djamelya:x:1267:10:djamel el-yassiri:/users/djamelya:/sbin/nologin
+jerelesu:x:1268:5002:jeremy lesuffleur:/users/jerelesu:/sbin/nologin
+victlucq:x:1269:5002:victor lucquin:/users/victlucq:/sbin/nologin
+mbenadja:x:1270:5002:marie-benedicte adjaho:/users/mbenadja:/sbin/nologin
+geofsena:x:1271:5002:geoffrey senac:/users/geofsena:/sbin/nologin
+valeboro:x:1273:5001:Valentin BOROZAN:/users/valeboro:/sbin/nologin
+itesla:x:1274:4019:geoffroy jamgotchian:/users/itesla:/bin/bash
+paulgamb:x:1275:5000:pauline gambier-morel:/users/paulgamb:/bin/bash
+cyrigisb:x:1276:5000:cyril gisbert:/users/cyrigisb:/bin/bash
+hervducl:x:1277:5000:herve ducloux:/users/hervducl:/bin/bash
+chriyang:x:1278:5000:christine yang:/users/chriyang:/bin/bash
+fikrhafi:x:1279:5000:fikri hafid:/users/fikrhafi:/bin/bash
+jalazawa:x:1280:5000:jalaldine zawam:/users/jalazawa:/bin/bash
+camipach:x:1281:5000:camille pache:/users/camipach:/bin/bash
+nathgris:x:1282:5000:nathalie grisey:/users/nathgris:/bin/bash
+florsimo:x:1283:5001:florian simon:/users/florsimo:/sbin/nologin
+sophsurm:x:1284:5001:sophie surmont:/users/sophsurm:/sbin/nologin
+pengwang:x:1285:5000:pengbo wang:/users/pengwang:/bin/bash
+jeropica:x:1286:5000:jerome picault:/users/jeropica:/bin/bash
+arnacour:x:1287:5001:arnaud courtecuisse:/users/arnacour:/sbin/nologin
+ftprstn:x:1288:1011:ftp:/users/grovss05/ftp:/sbin/nologin
+silomire:x:1289:5002:silouan mireaux:/users/silomire:/sbin/nologin
+louisomm:x:1290:5002:louis sommervogel:/users/louisomm:/sbin/nologin
+papandia:x:1291:5001:papa ndiaye:/users/papandia:/bin/bash
+doribret:x:1292:5002:dorian bretteville:/users/doribret:/sbin/nologin
+guilpier:x:1293:5001:guillaume pierre:/users/guilpier:/bin/bash
+nicomore:x:1294:5001:nicolas moreau:/users/nicomore:/sbin/nologin
+annetill:x:1295:5000:anne tilloy:/users/annetill:/bin/bash
+ftpcdp:x:1296:1011:ftp:/users/grovss05/ftpcdp:/bin/bash
+tensinc:x:1297:5002:Stephane FLISCOUNAKIS:/users/tensinc:/bin/bash
+jasmsali:x:1298:5002:jasma salim:/users/jasmsali:/sbin/nologin
+marcschu:x:1299:5002:marco schudel:/users/marcschu:/bin/bash
+sarafara:x:1300:5002:sara farah:/users/sarafara:/sbin/nologin
+yuchmaxx:x:1301:5002:yuchen ma:/users/yuchmaxx:/sbin/nologin
+benogaud:x:1302:5002:benoit gaudeul:/users/benogaud:/sbin/nologin
+anasmakt:x:1303:5002:anass maktane:/users/anasmakt:/sbin/nologin
+hamzbenn:x:1304:5002:hamza bennani:/users/hamzbenn:/sbin/nologin
+xiaozhan:x:1305:5002:xiaomeng zhang:/users/xiaozhan:/sbin/nologin
+nicocout:x:1306:5002:nicolas couturier:/users/nicocout:/sbin/nologin
+nicoandr:x:1307:5002:nicolas andretzko:/users/nicoandr:/sbin/nologin
+mmoufame:x:1308:5002:medoune-moudassire fame:/users/mmoufame:/sbin/nologin
+nicoribe:x:1309:5002:nicolas ribeiro:/users/nicoribe:/sbin/nologin
+mehdsaid:x:1310:5002:mehdi said:/users/mehdsaid:/sbin/nologin
+mathbong:x:1311:5002:mathilde bongrain:/users/mathbong:/bin/bash
+violberg:x:1312:5002:violette berge:/users/violberg:/sbin/nologin
+coripoid:x:1313:5001:corinne poidevin:/users/coripoid:/sbin/nologin
+antomaro:x:1314:5000:antoine marot:/users/antomaro:/bin/bash
+florpeti:x:1315:5002:florence petiet:/users/florpeti:/sbin/nologin
+mehdalao:x:1316:5002:mehdi alaoui:/users/mehdalao:/sbin/nologin
+guilvand:x:1317:10:guillaume vandeweghe:/users/guilvand:/sbin/nologin
+thibvand:x:1318:5002:thibault vandewoestyne:/users/thibvand:/sbin/nologin
+florfarg:x:1319:10:florent farge:/users/florfarg:/sbin/nologin
+camischw:x:1320:5002:camille schwartz:/users/camischw:/sbin/nologin
+pierstev:x:1321:5000:pierre stevenin:/users/pierstev:/bin/bash
+marisaug:x:1322:5000:marianne saugier:/users/marisaug:/bin/bash
+dynamo:x:1323:4016:francois beaude:/users/dynamo:/bin/bash
+abdebeno:x:1324:5001:abdelkader benouali:/users/abdebeno:/sbin/nologin
+alesdlal:x:1325:5001:Alessandro de luna almeida:/users/alesdlal:/bin/bash
+yacichao:x:1326:10:yacine chaoui:/users/yacichao:/sbin/nologin
+beatfaur:x:1327:5000:beatrice faure:/users/beatfaur:/bin/bash
+mohahamd:x:1328:5001:mohamed hamdi:/users/mohahamd:/sbin/nologin
+benjdonn:x:1329:5002:benjamin donnot:/users/benjdonn:/bin/bash
+leoxjean:x:1331:5001:leo jean:/users/leoxjean:/bin/bash
+dutoalai:x:1330:5000:dutoya alain:/users/dutoalai:/sbin/nologin
+alaiduto:x:1272:5001:alain dutoya:/users/alaiduto:/bin/bash
+maxidufo:x:1332:5002:maxime dufour:/users/maxidufo:/sbin/nologin
+nicogror:x:1333:5002:nicolas grorod:/users/nicogror:/bin/bash
+baptsegu:x:1334:5000:baptiste seguinot:/users/baptsegu:/bin/bash
+lixxbaoj:x:1335:5002:li baojie:/users/lixxbaoj:/sbin/nologin
+thiedell:x:1336:5000:thierry dellac:/users/thiedell:/bin/bash
+mattmart:x:1337:5001:matthieu martin:/users/mattmart:/sbin/nologin
+julimurg:x:1338:5002:julien murgey:/users/julimurg:/sbin/nologin
+davibind:x:1339:5001:david binder:/users/davibind:/bin/bash
+fredbrea:x:1340:5000:frederic breant:/users/fredbrea:/bin/bash
+franefer:x:1341:5000:francisco espiga fernandez:/users/franefer:/bin/bash
+dahahart:x:1342:5002:dahab harti:/users/dahahart:/sbin/nologin
+valeprin:x:1343:5002:valentin pringault:/users/valeprin:/sbin/nologin
+apogee:x:1344:4020:olivier bretteville:/users/apogee:/bin/bash
+antorayn:x:1345:5001:antoine raynot:/users/antorayn:/sbin/nologin
+antoreyn:x:1346:5001:antoine reynot:/users/antoreyn:/bin/bash
+laurbuss:x:1347:5001:laurent busson:/users/laurbuss:/bin/bash
+alixaith:x:1348:5001:ali aithaddou:/users/alixaith:/bin/bash
+colopeyr:x:1349:5000:colombe peyrusse:/users/colopeyr:/bin/bash
+mattlarr:x:1350:5002:matthieu larribe:/users/mattlarr:/sbin/nologin
+lucibale:x:1351:5000:lucian balea:/users/lucibale:/bin/bash
+alixahad:x:1352:5001:ali ait haddou:/users/alixahad:/bin/bash
+alisgoug:x:1353:5002:anne-lise gouguenheim:/users/alisgoug:/sbin/nologin
+sylvgiud:x:1354:5001:sylvain giudicelli:/users/sylvgiud:/bin/bash
+arnahamo:x:1355:10:arnaud hamon:/users/arnahamo:/bin/bash
+isabbail:x:1356:5002:isabelle bailleul:/users/isabbail:/bin/bash
+auretour:x:1357:5002:aurelien tournebise:/users/auretour:/sbin/nologin
+chribous:x:1358:5001:christelle boussand:/users/chribous:/bin/bash
+cpreviconso:x:1359:5000:genevieve sommervogel:/users/cpreviconso:/bin/bash
+mathbiha:x:1360:5001:mathieu bihan:/users/mathbiha:/sbin/nologin
+alaixxxx:x:1361:5001:alaiduto:/users/alaixxxx:/sbin/nologin
+gamedavi:x:1362:5000:game david:/users/gamedavi:/sbin/nologin
+penanico:x:1363:5002:pena nicolas:/users/penanico:/sbin/nologin
+mandthie:x:1364:5001:mandon thierry:/users/mandthie:/sbin/nologin
+lestcyri:x:1365:5002:lestiennes cyril:/users/lestcyri:/sbin/nologin
+alphrako:x:1366:5002:alphonsine rakotonanahary:/users/alphrako:/sbin/nologin
+saadhait:x:1367:5002:saad haitof:/users/saadhait:/sbin/nologin
+willbaye:x:1368:5002:william baye:/users/willbaye:/bin/bash
+davigame:x:1369:5000:david game:/users/davigame:/bin/bash
+nicopena:x:1370:5002:nicolas pena:/users/nicopena:/sbin/nologin
+thiemand:x:1371:5001:thierry mandon:/users/thiemand:/bin/bash
+cyrilest:x:1372:5002:cyril lestiennes:/users/cyrilest:/sbin/nologin
+daviperb:x:1373:5001:david perbost:/users/daviperb:/bin/bash
+sylvmara:x:1374:5001:sylvain marandon:/users/sylvmara:/bin/bash
+maurmfou:x:1375:5001:maurice mfoumoun:/users/maurmfou:/bin/bash
+franguil:x:1376:5001:francois guillem:/users/franguil:/bin/bash
+hassahma:x:1377:10:hassan ahmane:/users/hassahma:/sbin/nologin
+nicoduch:x:1378:5002:nicolas duchene:/users/nicoduch:/bin/bash
+edoudumo:x:1379:5002:edouard dumon:/users/edoudumo:/bin/bash
+hadrgoda:x:1380:5002:hadrien godard:/users/hadrgoda:/bin/bash
+mamakebe:x:1381:5002:mamadou kebe:/users/mamakebe:/sbin/nologin
+piersaik:x:1382:5002:pierre saikaly:/users/piersaik:/bin/bash
+ayhauyan:x:1383:5001:ayhan uyanik:/users/ayhauyan:/bin/bash
+ftpenr:x:1384:1011:ftp:/users/grovss05/ftp:/sbin/nologin
+thiebarr:x:1385:5001:thierry barres:/users/thiebarr:/bin/bash
+piermarq:x:1386:5001:pierre marques:/users/piermarq:/bin/bash
+damijean:x:1387:5000:damien jeandemange:/users/damijean:/bin/bash
+gabrjouf:x:1388:5002:gabriel jouffrai:/users/gabrjouf:/sbin/nologin
+adribrou:x:1389:5001:adrien brout:/users/adribrou:/bin/bash
+cedrtheb:x:1390:5000:cedric thebault:/users/cedrtheb:/bin/bash
+pmargibe:x:1391:5002:pierre-marie gibert:/users/pmargibe:/bin/bash
+fabrducl:x:1392:5002:fabrice ducloux:/users/fabrducl:/sbin/nologin
+florkebe:x:1393:5002:florian kebe:/users/florkebe:/sbin/nologin
+franespi:x:1394:5000:francisco espigafernandez:/users/franespi:/bin/bash
+gerapays:x:1395:5001:gerald paysant:/users/gerapays:/bin/bash
+michtheo:x:1396:5000:michael theodore:/users/michtheo:/bin/bash
+manuruiz:x:1397:5000:manuel ruiz:/users/manuruiz:/bin/bash
+paulgres:x:1398:5002:Paul Gressier:/users/paulgres:/sbin/nologin
+ftpenrrecette:x:1399:1011:ftp:/users/grovss05/ftp:/sbin/nologin
+adripell:x:1402:10:Adrien Pelloux:/users/adripell:/sbin/nologin
+ftpucte-rte:x:1401:1011:ftp:/users/grovss05/ftpucte-rte:/bin/bash
+fredbien:x:1112:5000:frederic bienvenu:/users/fredbien:/bin/bash
+topase:x:1115:5000:nicolas lhuillier:/users/topase:/bin/bash
+xinhzhan:x:1173:5001:xinhe zhang:/users/xinhzhan:/bin/bash
+martbuss:x:1402:5001:martine busson:/users/martbuss:/sbin/nologin
+rudynoyo:x:1403:10:rudy noyon:/users/rudynoyo:/bin/bash
+marilixx:x:1404:5002:mari li:/users/marilixx:/bin/bash
+romafran:x:1405:5001:romain francois:/users/romafran:/bin/bash
+marjcoss:x:1406:5000:marjorie cosson:/users/marjcoss:/bin/bash
+albeteje:x:1407:5000:alberto tejeda:/users/albeteje:/bin/bash
+jerebert:x:1408:5001:jeremy bertrand:/users/jerebert:/bin/bash
+weixding:x:1409:5001:wei ding:/users/weixding:/bin/bash
+taresakk:x:1410:5002:tarek sakkouni:/users/taresakk:/bin/bash
+basseche:x:1411:5001:bassel el cheikh:/users/basseche:/bin/bash
+gilbbitt:x:1412:5001:gilbert bitta:/users/gilbbitt:/bin/bash
+sebamarc:x:1413:10:sebastien marchadier:/users/sebamarc:/bin/bash
+lassdans:x:1414:5001:lassana dansoko:/users/lassdans:/bin/bash
+gitlab:x:55009:55009::/home/gitlab:/bin/bash
+maxifort:x:1415:5000:maxime fortin:/users/maxifort:/bin/bash
+ericmayi:x:1416:10:eric mayi:/users/ericmayi:/bin/bash
+frannico:x:1417:5000:francois nicot:/users/frannico:/bin/bash
+lxxxamir:x:1418:10:l amir:/users/lxxxamir:/bin/bash
+aurehave:x:1419:5000:aurelien havel:/users/aurehave:/bin/bash
+thommand:x:1420:5000:thommas mandil:/users/thommand:/bin/bash
+franseri:x:1421:5000:françoise sericola:/users/franseri:/bin/bash
+hubepich:x:1422:5001:hubert pichot:/users/hubepich:/sbin/nologin
+jeropiga:x:1423:5000:jerome pigat:/users/jeropiga:/bin/bash
+corexxxx:x:1424:5001:coreso:/users/corexxxx:/bin/bash
+tangjans:x:1425:5000:tanguy janssen:/users/tangjans:/bin/bash
+lydipend:x:1426:5000:lydie pendu:/users/lydipend:/bin/bash
+olivbeck:x:1427:5000:olivier beck:/users/olivbeck:/bin/bash
+marcchia:x:1428:5000:marco chiaramello:/users/marcchia:/bin/bash
+philclau:x:1429:5000:philippe claude:/users/philclau:/bin/bash
+vlixnguy:x:1430:5001:van-li nguyen:/users/vlixnguy:/bin/bash
+lionfigu:x:1431:5000:lionel figueroa:/users/lionfigu:/bin/bash
+xaviblan:x:1432:5002:xavier blanchot:/users/xaviblan:/sbin/nologin
+maxilaas:x:1433:5000:maxime laasri:/users/maxilaas:/bin/bash
+piergout:x:1434:5000:pierre goutierre:/users/piergout:/bin/bash
+saidjuli:x:1435:5000:said julien:/users/saidjuli:/bin/bash
+julisaid:x:1436:5002:julien said:/users/julisaid:/bin/bash
+samitazi:x:1437:5000:Sami Tazi:/users/samitazi:/sbin/nologin
+mohalafr:x:1438:5000:mohamed lafraoui:/users/mohalafr:/bin/bash
+aurebrio:x:1439:5001:aurelien briot:/users/aurebrio:/bin/bash
+julivass:x:1440:5001:julie vasse:/users/julivass:/bin/bash
+lucaberb:x:1441:5001:lucas berbesson:/users/lucaberb:/bin/bash
+andramad:x:1442:5002:andres amador:/users/andramad:/bin/bash
+lucigarn:x:1443:5002:lucile garnier:/users/lucigarn:/sbin/nologin
+fabigour:x:1444:5001:fabien gourdin:/users/fabigour:/sbin/nologin
+ftppopcorn:x:1445:1011:ftp:/users/grovss05/ftp:/sbin/nologin
+thiebeno:x:1446:5001:thieurmel benoit:/users/thiebeno:/bin/bash
+titorobe:x:1447:5001:titouan robert:/users/titorobe:/bin/bash
+seifbtem:x:1448:5001:seifallah ben temessek:/users/seifbtem:/bin/bash
+laurbern:x:1449:5002:laura bernard:/users/laurbern:/bin/bash
+clemstra:x:1450:5002:clementine straub:/users/clemstra:/bin/bash
+manthube:x:1452:5002:marc-antoine hubert:/users/manthube:/sbin/nologin
+julisilw:x:1452:5002:julie silwak:/users/julisilw:/bin/bash
+mathfran:x:1453:5002:mathilde françon:/users/mathfran:/bin/bash
+khaleaab:x:1454:5002:khalid el aaboudi:/users/khaleaab:/sbin/nologin
+thomhegg:x:1455:5001:thomas heggarty:/users/thomhegg:/bin/bash
+jeffpeti:x:1456:5001:jeffery petit:/users/jeffpeti:/bin/bash
+guilparl:x:1457:5002:guillaume parlier:/users/guilparl:/sbin/nologin
+inesberb:x:1458:5002:ines berber:/users/inesberb:/bin/bash
+jimmmich:x:1459:5001:jimmy michel:/users/jimmmich:/bin/bash
+naouel-a:x:1460:5001:naoufal el-abouyi:/users/naouel-a:/bin/bash
+hugodosx:x:1461:5001:hugo dos:/users/hugodosx:/sbin/nologin
+stevmari:x:1462:5001:steve marie-celine:/users/stevmari:/bin/bash
+monibise:x:1463:5000:monica biserica:/users/monibise:/bin/bash
+cedrrull:x:1464:5001:cedric rullaud:/users/cedrrull:/bin/bash
+piergera:x:1465:5001:pierre gerard:/users/piergera:/bin/bash
+danipart:x:1467:10:daniel party:/users/danipart:/sbin/nologin
+penaboss:x:1467:5001:penan bossia:/users/penaboss:/bin/bash
+fernrodr:x:1468:5001:fernando rodrigues:/users/fernrodr:/bin/bash
+mahdchek:x:1469:5001:mahdi chekini:/users/mahdchek:/bin/bash
+mohaabba:x:1470:5001:mohammed abbadi:/users/mohaabba:/bin/bash
+sandbort:x:1471:5002:sandrine bortolotti:/users/sandbort:/bin/bash
+ftpapogee:x:1472:1011:ftp:/users/grovss05/ftp:/sbin/nologin
+julisliw:x:1473:5002:julie sliwak:/users/julisliw:/bin/bash
+bellamad:x:1474:5002:bello amador:/users/bellamad:/sbin/nologin
+jlucbell:x:1475:5000:jean-luc bellier:/users/jlucbell:/bin/bash
+vinclaur:x:1476:5001:vincent laurent:/users/vinclaur:/bin/bash
+davigohe:x:1477:5001:david gohel:/users/davigohe:/bin/bash
+carmcard:x:1478:5000:carmen cardozo:/users/carmcard:/bin/bash
+romaloss:x:1479:5000:romain losseau:/users/romaloss:/bin/bash
+dieydiao:x:1480:5001:dieynaba diao:/users/dieydiao:/bin/bash
+thomguil:x:1481:10:thomas guillon:/users/thomguil:/bin/bash
+alixtaha:x:1482:5001:ali tahanout:/users/alixtaha:/bin/bash
+robihuar:x:1483:5001:robin huart:/users/robihuar:/bin/bash
+fabiarav:x:1484:5001:fabiola aravena:/users/fabiarav:/bin/bash
+raphjour:x:1486:5002:raphael jouretz:/users/raphjour:/sbin/nologin
+josearau:x:1485:5002:jose araujo:/users/josearau:/bin/bash
+jereleud:x:1487:5001:jeremy leudet:/users/jereleud:/bin/bash
+alairegn:x:1488:5001:alain regnier:/users/alairegn:/bin/bash
+yichtang:x:1489:5001:yichen tang:/users/yichtang:/bin/bash
+jeanbert:x:1490:5002:jean bertin:/users/jeanbert:/bin/bash
+thomnegr:x:1491:5000:thomas negrel:/users/thomnegr:/bin/bash
+clemcabo:x:1492:5002:clement cabot:/users/clemcabo:/bin/bash
+waliboul:x:1493:5001:walid boulacheb:/users/waliboul:/bin/bash
+benothie:x:1494:5001:benoit thieurmel:/users/benothie:/bin/bash
+clemxuxx:x:1495:5002:clement xu:/users/clemxuxx:/bin/bash
+louimull:x:1496:5002:louise muller:/users/louimull:/bin/bash
+charmore:x:1497:5002:charline moreux:/users/charmore:/bin/bash
+sebafine:x:1498:5000:sebastien finet:/users/sebafine:/bin/bash
+johndoex:x:1499:5000:john doe:/users/johndoex:/bin/bash
+chrinall:x:1500:5002:christian nallatamby:/users/chrinall:/bin/bash
+cedrdebo:x:1501:5002:cedric debontride:/users/cedrdebo:/bin/bash
+gillbare:x:1502:5002:gilles bareilles:/users/gillbare:/bin/bash
+eugemare:x:1400:5002:eugenie marescaux:/users/eugemare:/bin/bash
+thaigast:x:1466:5002:thais gastaldi:/users/thaigast:/bin/bash
+lucihenr:x:1503:5000:lucia henriot:/users/lucihenr:/bin/bash
+boubbrah:x:1451:5001:boubakeur brahimi:/users/boubbrah:/bin/bash
+kevidugu:x:1504:10:kevin duguet:/users/kevidugu:/bin/bash
+viktterr:x:1505:5000:viktor terrier:/users/viktterr:/bin/bash
+chaojabo:x:1506:5001:chaouki jabou:/users/chaojabo:/bin/bash
+teofcban:x:1507:5001:teofil calin banc:/users/teofcban:/bin/bash
+anthgron:x:1508:5000:anthony grondin:/users/anthgron:/bin/bash
+kevibira:x:1509:10:kevin biraud:/users/kevibira:/bin/bash
+hugumahe:x:1510:10:hugues mahe:/users/hugumahe:/bin/bash
+jabochao:x:1511:5001:jabou chaouki:/users/jabochao:/bin/bash
+stefcamp:x:1512:5001:stefano campagnacci:/users/stefcamp:/bin/bash
+seifkaro:x:1513:10:seif karoui:/users/seifkaro:/bin/bash
+maxihaue:x:1514:10:maxime hauet:/users/maxihaue:/bin/bash
+martkraw:x:1515:5001:martial krawier:/users/martkraw:/bin/bash
+achrelma:x:1516:5001:achraf elmarhraoui:/users/achrelma:/bin/bash
+imanhadd:x:1517:5000:imane haddadi:/users/imanhadd:/bin/bash
+previlab:x:1518:10:maxime fortin:/users/previlab:/sbin/nologin
+lorebous:x:1519:5002:lorenzo boussion:/users/lorebous:/bin/bash
+nicourai:x:1520:5000:nicolas urai:/users/nicourai:/bin/bash
+nourkhat:x:1521:5002:nour khater:/users/nourkhat:/bin/bash
+nourkath:x:1522:5002:nour kather:/users/nourkath:/sbin/nologin
+mariabad:x:1523:5001:marie abadie:/users/mariabad:/bin/bash
+mickcibo:x:1524:5000:mickael cibois:/users/mickcibo:/bin/bash
+juancmhi:x:1525:5002:juan carlos martin hinojar:/users/juancmhi:/bin/bash
+antorosi:x:1526:5002:antoine rosin:/users/antorosi:/bin/bash
+vincprot:x:1527:5000:vincent protard:/users/vincprot:/bin/bash
+lucxdgal:x:1528:5000:luc di gallo:/users/lucxdgal:/bin/bash
+thibverm:x:1529:5000:thibaut vermeulen:/users/thibverm:/bin/bash
+gautbure:x:1530:5000:gautier bureau:/users/gautbure:/bin/bash
+charpaye:x:1531:5000:charles payement:/users/charpaye:/bin/bash

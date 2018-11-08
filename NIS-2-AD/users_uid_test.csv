@@ -1,0 +1,12 @@
+Name:NA:Uid:Gid:Nom:Home:Shell
+ftppf:x:1235:1011:ftppf:/users/ptfiges_l05/:/sbin/nologin
+ftpfb:x:1240:1011:ftpfb:/users/grovss05/ftp:/sbin/nologin
+ftpadmin:x:64630:1:ftpadmin:/home/ftpadmin:/bin/bash
+ftpsideral:x:1265:1011:ftpsideral:/users/grovss05/ftp:/sbin/nologin
+ftprstn:x:1288:1011:ftprstn:/users/grovss05/ftp:/sbin/nologin
+ftpcdp:x:1296:1011:ftpcdp:/users/grovss05/ftpcdp:/bin/bash
+ftpenr:x:1384:1011:ftpenr:/users/grovss05/ftp:/sbin/nologin
+ftpenrrecette:x:1399:1011:ftpenrrecette:/users/grovss05/ftp:/sbin/nologin
+ftpucte-rte:x:1401:1011:ftpucte-rte:/users/grovss05/ftpucte-rte:/bin/bash
+ftppopcorn:x:1445:1011:ftppopcorn:/users/grovss05/ftp:/sbin/nologin
+ftpapogee:x:1472:1011:ftpapogee:/users/grovss05/ftp:/sbin/nologin
