@@ -1,0 +1,56 @@
+[sssd]
+domains = contoso.com
+config_file_version = 2
+services = nss, pam
+default_domain_suffix = contoso.com
+full_name_format = %1$s
+
+[nss]
+filter_users = root,sysadmin
+filter_groups = root,sysadmin
+
+
+[pam]
+#--- cache de 3 jours | 5 tentatives max avant délai quand l'AD est pas dispo| 15j de prevention avant expiration du mdp AD
+offline_credentials_expiration = 3
+offline_failed_login_attempts = 5
+pam_pwd_expiration_warning = 15
+
+[domain/contoso.com]
+ldap_schema = ad
+ad_domain = contoso.com
+krb5_realm = contoso.com
+id_provider = ad
+access_provider = ad
+chpass_provider = ad
+ldap_id_mapping = True
+#--- exclusions GPO
+ad_gpo_ignore_unreadable = true
+ad_gpo_access_control = permissive
+#-----
+#--- Renewal pwd computer object
+ad_maximum_machine_account_password_age = 30
+ad_machine_account_password_renewal_opts = 86400:60
+#---
+#--- Interactions DNS
+dyndns_update = false
+dyndns_refresh_interval = 43200
+dyndns_update_ptr = false
+dyndns_ttl = 3600
+#---
+#--- local config
+cache_credentials = true
+realmd_tags = manages-system joined-with-adcli
+krb5_store_password_if_offline = true
+case_sensitive = false
+auto_private_groups = true
+default_shell = /bin/bash
+fallback_homedir = /home/%u
+#--- access mapping
+## A laisser pour linux par /etc/security/access.conf ou a l'AD'
+#ad_access_filter = DOM:contoso.com:(|(memberOf:1.2.840.113556.1.4.1941:=CN=Systemes,OU=1-Administration,DC=contoso,DC=com)(memberOf:1.2.840.113556.1.4.1941:=CN=GLPI,OU=1-Administration,DC=contoso,DC=com))
+ad_access_filter = DOM:contoso.com:(memberOf:1.2.840.113556.1.4.1941:=CN=Systemes,OU=1-Administration,DC=contoso,DC=com)
+#--- decommenter la ligne ci-dessous pour diag sur incidents
+#enumerate = true
+#debug_level = 9
+#===  FIN CONF SSSD ===================#
